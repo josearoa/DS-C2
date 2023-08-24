@@ -63,7 +63,7 @@ h3{
 }
 
 .hero{
-    background-image: url(/Clase2/hero.jpg);
+    background-image: url(/hero.jpg);
     height: 450px;
     background-size: cover;
     background-repeat: no-repeat;
